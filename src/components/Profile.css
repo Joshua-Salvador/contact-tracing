@@ -1,0 +1,7 @@
+.profile-header {
+    background-color: #DF2056;
+    padding: 30px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
