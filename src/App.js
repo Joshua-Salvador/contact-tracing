@@ -1,6 +1,12 @@
-import React from 'react';
-import './App.css';
-import Profile from './components/Profile';
+import React from "react";
+import "./App.css";
+import Profile from "./components/Profile";
+
+import "./App.scss";
+// Bootstrap Components
+// import "bootstrap/dist/css/bootstrap.min.css";
+import SearchBar from "./components/SearchBar";
+import Locations from "./components/Locations";
 
 function App() {
   return (
@@ -8,7 +14,9 @@ function App() {
       {/* Profile Details */}
       <Profile />
 
-      {/* Locations */}
+      {/* Main Body */}
+      <SearchBar />
+      <Locations />
 
       {/* Footer */}
     </div>

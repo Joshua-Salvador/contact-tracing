@@ -1,0 +1,15 @@
+.btn-green {
+  background-color: #20dfa9;
+  border: 1px solid #20dfa9;
+}
+.btn-green:hover {
+  background-color: #1dd39f;
+  border: 1px solid #1dd39f;
+}
+
+.card {
+  width: 100%;
+  height: 20vh;
+  object-fit: cover;
+  margin: 20px;
+}

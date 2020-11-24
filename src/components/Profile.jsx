@@ -9,9 +9,9 @@ function Profile() {
                 <PersonIcon fontSize="large" className="profile-icon" />
             </IconButton>
             
-            <h3>Name: Barney the Dinosaur</h3>
-            <h3>Age: 54</h3>
-            <h3>Address: Stampy's Lovely World</h3>
+            <h3>Name: Joshua</h3>
+            <h3>Age: 18</h3>
+            <h3 hidden>Address: Bl5 Lot3 XY Subdivision, Rodavlas St., Tisa, Cebu City</h3>
         </div>
     )
 }
