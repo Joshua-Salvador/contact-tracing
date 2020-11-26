@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React from 'react'
 import "./Locations.css"
 import Location from "./Location"
 
@@ -7,7 +7,7 @@ import {Container, Row, Col} from 'react-bootstrap';
 
 
 function Locations() {
-  const [locations, setLocations] = useState([
+  const locations = [
     {
     name: "McDonalds",
     address: "IT Park, Lahug, Cebu City", 
@@ -36,7 +36,9 @@ function Locations() {
     count: 0,
     id: 3
     },
-  ])
+    
+    
+  ]
 
   // countHandler = (id) => {
   //   setLocations([...locations, ])

@@ -6,3 +6,9 @@
   align-items: center;
   justify-content: space-between;
 }
+
+.profile-info {
+  color: #fff;
+  margin: auto;
+  padding: 20px;
+}

@@ -7,6 +7,7 @@ import "./App.scss";
 // import "bootstrap/dist/css/bootstrap.min.css";
 import SearchBar from "./components/SearchBar";
 import Locations from "./components/Locations";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Locations />
 
       {/* Footer */}
+      <Footer />
     </div>
   );
 }
