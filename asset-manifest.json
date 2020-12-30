@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/contact-tracing/static/css/main.dbf658f1.chunk.css",
+    "main.js": "/contact-tracing/static/js/main.d480e905.chunk.js",
+    "main.js.map": "/contact-tracing/static/js/main.d480e905.chunk.js.map",
+    "runtime-main.js": "/contact-tracing/static/js/runtime-main.3c03a0ca.js",
+    "runtime-main.js.map": "/contact-tracing/static/js/runtime-main.3c03a0ca.js.map",
+    "static/js/2.48f4081a.chunk.js": "/contact-tracing/static/js/2.48f4081a.chunk.js",
+    "static/js/2.48f4081a.chunk.js.map": "/contact-tracing/static/js/2.48f4081a.chunk.js.map",
+    "index.html": "/contact-tracing/index.html",
+    "static/css/main.dbf658f1.chunk.css.map": "/contact-tracing/static/css/main.dbf658f1.chunk.css.map",
+    "static/js/2.48f4081a.chunk.js.LICENSE.txt": "/contact-tracing/static/js/2.48f4081a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c03a0ca.js",
+    "static/js/2.48f4081a.chunk.js",
+    "static/css/main.dbf658f1.chunk.css",
+    "static/js/main.d480e905.chunk.js"
+  ]
+}
