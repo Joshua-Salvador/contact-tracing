@@ -4,7 +4,7 @@ function Footer() {
   return (
     <div>
       <footer>
-        <p>U+00A9 Joshua Enrick B. Salvador </p>
+        <p>©Joshua Enrick B. Salvador </p>
       </footer>
     </div>
   )
